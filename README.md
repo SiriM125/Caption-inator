@@ -37,6 +37,7 @@ Run data_maker.py
  
 ---
 Optional:
+
 If you want to increase the size of dataset 
 - First delete the already existing dataset folder if there is any in your project folder. 
 - Then download the dataset from https://www.kaggle.com/datasets/muhammadkhalid/sign-language-for-numbers to your project directory. 
