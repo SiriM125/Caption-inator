@@ -20,6 +20,8 @@ as well as images captured by author (me).
 
 Make gestures inside the region of interest (green box) to view the gesture recognition and captioning at work!
 
+-------
+
 ### Option 2: Capture your own dataset
 
 Run data_maker.py
@@ -33,7 +35,7 @@ Run data_maker.py
 - Press 'q' to quit the window.
 - Rerun data_maker.py to choose another gesture number to capture
 
------
+----
 
 Optional:
 
@@ -43,7 +45,7 @@ If you want to increase the size of dataset
 - Change the name from "Sign Language for Numbers" to "dataset"
 - Delete the "unknown" folder inside the dataset folder. 
 - Now your captured images will add onto the existing dataset.
------
+----
 
 Run data_prep.py
 
