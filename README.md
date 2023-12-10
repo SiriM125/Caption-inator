@@ -34,10 +34,9 @@ Run data_maker.py
 - Ensure to capture several images in each number category to get a varied dataset
 - Press 'q' to quit the window.
 - Rerun data_maker.py to choose another gesture number to capture
-
-
-Optional: 
+ 
 ---
+Optional:
 If you want to increase the size of dataset 
 - First delete the already existing dataset folder if there is any in your project folder. 
 - Then download the dataset from https://www.kaggle.com/datasets/muhammadkhalid/sign-language-for-numbers to your project directory. 
